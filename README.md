@@ -12,6 +12,7 @@
 _Get started using GitHub in less than an hour._
 
 </header>
+Author Mahmood
 
 <!--
   <<< Author notes: Step 1 >>>
